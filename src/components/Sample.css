@@ -1,0 +1,15 @@
+.header{
+    border-bottom: 1px solid rgb(44, 186, 79);
+    margin-bottom: 20px;
+}
+.headerNav{
+    background-color:  #0b9b7c5b;
+}
+.navLink:hover, .active{
+    color:#001aff;
+}
+.navbar-light .navbar-brand,.navbar-light .navbar-brand:hover, .navLink {
+    color: white;
+}
+
+
